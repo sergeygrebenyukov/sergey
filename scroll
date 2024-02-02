@@ -1,0 +1,15 @@
+<style>
+body::-webkit-scrollbar {
+  width: 6px;               /* ширина всей полосы прокрутки */
+}
+
+body::-webkit-scrollbar-track {
+  background: white;        /* цвет зоны отслеживания */
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #015eac;    /* цвет бегунка */
+  border-radius: 30px;       /* округлось бегунка */
+  border: 3px #015eac;  /* отступ вокруг бегунка */
+}
+</style>
